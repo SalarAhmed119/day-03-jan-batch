@@ -1,0 +1,32 @@
+touch -> create a file
+
+
+touch filename.extension
+
+types of tags
+two types of tags
+singular
+paired
+
+types of tags based on spacing
+2 types 
+
+1. inline tag/ inline element
+2. block level element
+e.g. h1,---,h6,
+
+
+selector{
+	property:value;
+}
+
+
+
+box banane keliye
+1. div ka use kren
+2. w,h,b-c
+
+ball banani ho
+1. div
+2. w,h,b-c
+3. border-radius
